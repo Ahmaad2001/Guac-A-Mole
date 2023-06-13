@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 300px;
+  width: 300px;
+  height: 200px;
+  
+}
